@@ -1,0 +1,7 @@
+Work Done-
+1.created shell script setup as a service using bugz.service on ubuntu 16 distro
+2.Follow these links to establish a service on ubuntu through systemd that allows it to execute on startup
+	link1-https://linuxconfig.org/how-to-automatically-execute-shell-script-at-startup-boot-on-systemd-linux
+	link2-https://discourse.osmc.tv/t/redirecting-output-from-a-systemd-service-python-script-to-a-log-file/12553
+
+3.Established a basic django project-WebManager on aws to interact with the above mentioned webhooks
